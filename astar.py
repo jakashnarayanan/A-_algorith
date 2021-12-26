@@ -1,7 +1,7 @@
 import time
 import matplotlib.pyplot as plt
 from numpy.core.shape_base import block
-import Grip
+import Grid
 class Node():
 
 
